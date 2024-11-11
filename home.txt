@@ -2,4 +2,3 @@ firewall
 ids
 cyber security
 ips
-gate
